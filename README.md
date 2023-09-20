@@ -143,5 +143,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 # This file contains the names of the main authors of this project
 
-Mustapha Ramadan <https://github.com/MustaphaRam>
+Mustapha Ramadan <https://github.com/MustaphaRam><br/>
 ABDULLAHI HERSI <https://github.com/AflaxCade>
